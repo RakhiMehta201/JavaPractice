@@ -1,0 +1,23 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÏÉæ
+U
+java:S1854
+":Remove this useless assignment to local variable "strObj".(»‡´ùÿÿÿÿ
+;
+java:S2129
+" Remove this "String" constructor(»‡´ùÿÿÿÿ
+F
+java:S1481
+"+Remove this unused "strObj" local variable.(»‡´ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–€¸¨
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ïœü®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ıò×¦úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»èáÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®‰¡åÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µçœàúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù­Ôƒûÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ñÇƒíşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶ÌÆó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï‡ÿÑúÿÿÿÿ
